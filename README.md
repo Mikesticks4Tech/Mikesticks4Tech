@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm Michael 👋
 
-<!--
-**Mikesticks4Tech/Mikesticks4Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React · TypeScript · Node.js
 
-Here are some ideas to get you started:
+I build production-style web applications with a focus on
+fintech, SaaS, e-commerce and real-time systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+Frontend
+React · TypeScript · JavaScript · Tailwind CSS · Vite
+
+Backend
+Node.js · Express · REST APIs · Socket.io
+
+Database
+MongoDB · Mongoose
+
+Integrations
+Paystack · Resend · Claude AI · Leaflet
+
+### Featured Projects
+
+🚚 DeliverTrack
+Real-time delivery tracking with Socket.io, GPS and Leaflet.
+
+🔐 EscrowNG
+Peer-to-peer escrow platform with Paystack payments.
+
+📄 InvoiceNG
+SaaS invoicing and payment platform.
+
+🍔 Chopfast
+Food delivery platform with geolocation and payments.
+
+💰 FinTrack
+AI-powered personal finance dashboard.
+
+### Currently looking for
+
+Full-time / contract opportunities as a Full-Stack Developer.
+
+Open to remote opportunities and teams building products
+in fintech, SaaS and e-commerce.
+
+📧 idowumichael900@gmail.com
+🌐 Portfolio: [...](https://my-portfolio-eight-dun-99.vercel.app/)
+💼 LinkedIn: [...](https://www.linkedin.com/in/idowu-michael-025a01387/)
